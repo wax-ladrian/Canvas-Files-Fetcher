@@ -1,0 +1,4 @@
+470794, /Users/oris/Classes/PHYS 731 Quantum Mechanics/PHYS 731 Materials
+470802, /Users/oris/Classes/PHYS 772 HE Astrophysics/PHYS 772 Materials
+470785, /Users/oris/Classes/PHYS 711 Dynamics/PHYS 711 Materials
+477770, /Users/oris/Classes/PHYS 701/PHYS 701 Materials
